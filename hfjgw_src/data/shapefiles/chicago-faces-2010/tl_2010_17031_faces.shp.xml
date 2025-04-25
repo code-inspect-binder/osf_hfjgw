@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+   <idinfo>
+      <citation>
+         <citeinfo>
+	    <origin>U.S. Department of Commerce, U.S. Census Bureau, Geography 
+                    Division</origin>
+	       <pubdate>2010</pubdate>
+	       <title>TIGER/Line Shapefile, 2010,  county, Cook County, IL, Current Topological Faces (Polygons With All Geocodes) Shapefile</title>
+	       <edition>2010</edition>
+	       <geoform>vector digital data</geoform>
+	       <onlink>http://www2.census.gov/geo/tiger/TIGER2010/FACES/tl_2010_17031_faces.zip</onlink>
+	 </citeinfo>
+      </citation>
+	   <descript>
+	       <abstract>The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  Face refers to the areal (polygon) topological primitives that make up MTDB.  A face is bounded by one or more edges; its boundary includes only the edges that separate it from other faces, not any interior edges contained within the area of the face.  The Topological Faces Shapefile contains the attributes of each topological primitive face.  Each face has a unique topological face identifier (TFID) value.  Each face in the shapefile includes the key geographic area codes for almost all geographic areas for which the Census Bureau tabulates data for both the 2010 Census and Census 2000.  The geometries of each of these geographic areas can then be built by dissolving the face geometries on the appropriate key geographic area codes in the Topological Faces Shapefile.  
+</abstract>
+	       <purpose>In order for others to use the information in the Census MAF/TIGER database in a geographic information system (GIS) or for other geographic applications, the Census Bureau releases to the public extracts of the database in the form of TIGER/Line Shapefiles.</purpose>
+	       <Subject_Entity>Cook, IL, (17031)</Subject_Entity>
+	   </descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>201103</begdate>
+					<enddate>201112</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>Publication Date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>TIGER/Line Shapefiles are extracted from the Census MAF/TIGER database.  No changes or updates will be made to this version of the TIGER/Line Shapefiles.  Future releases of TIGER/Line Shapefiles will reflect updates made to the Census MAF/TIGER database.</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-88.263507</westbc>
+				<eastbc>-87.111162</eastbc>
+				<northbc>42.154292</northbc>
+				<southbc>41.469524</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Categories</themekt>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekt>None</themekt>
+				
+				<themekey>County or equivalent entity</themekey>
+				<themekey>Table</themekey>
+				<themekey>Topological Faces</themekey>
+				<themekey>State FIPS Code</themekey>
+				<themekey>County FIPS Code</themekey>
+				<themekey>Census Tract Number</themekey>
+				<themekey>Block Group</themekey>
+				<themekey>Number</themekey>
+				<themekey>Tabulation Block Number</themekey>
+				<themekey>County Subdivision FIPS Code</themekey>
+				<themekey>Sub-minor Civil Division FIPS Code in Puerto Rico</themekey>
+				<themekey>FIPS 55 Place Code For All Places</themekey>
+				<themekey>Consolidated City FIPS Code</themekey>
+				<themekey>Urban Area Code</themekey>
+				<themekey>106th congressional district Code</themekey>
+				<themekey>108th congressional district Code</themekey>
+				<themekey>5 digit ZIP Code Tabulation Area Code</themekey>
+				<themekey>3 digit ZIP Code Tabulation Area Code</themekey>
+				<themekey>Traffic Analysis Zone Code</themekey>
+				<themekey>Voting District Code</themekey>
+				<themekey>State Legislative District Upper Chamber Code</themekey>
+				<themekey>State Legislative District Lower Chamber Code</themekey>
+				<themekey>Legislative Session Year</themekey>
+				<themekey>Urban Growth Area Code</themekey>
+				<themekey>American Indian/Alaska Native/Native Hawaiian Areas Census Code</themekey>
+				<themekey>Reservation or Off-reservation Trust Land Indicator</themekey>
+				<themekey>Alaska Native Regional Corporation FIPS code</themekey>
+				<themekey>Tribal Subdivision Code</themekey>
+				<themekey>Metropolitan Statistical Area/Consolidated Metropolitan Statistical Area FIPS Code</themekey>
+				<themekey>Primary Metropolitan Statistical Area FIPS Code</themekey>
+				<themekey>New England County Metropolitan Area FIPS Code</themekey>
+				<themekey>Elementary School District Local Education Agency Code</themekey>
+				<themekey>Secondary School District Local Education Agency Code</themekey>
+				<themekey>Unified School District Local Education Agency Code</themekey>
+				<themekey>1-Percent Public Use Microdata Area Code</themekey>
+				<themekey>5-Percent Public Use Microdata Area Code</themekey>
+				<themekey>Land/water Flag</themekey>
+			</theme>
+			<place>
+			   <placekt>ANSI INCITS 38:2009 (Formerly FIPS 5-2), 
+                              ANSI INCITS 31:2009 (Formerly FIPS 6-4),ANSI 
+                              INCITS 454:2009 (Formerly FIPS 8-6), ANSI INCITS 
+                              455:2009(Formerly FIPS 9-1), ANSI INCITS 446:2008                           (Geographic Names Information System (GNIS))</placekt>
+			   <placekey>United States</placekey>
+				<placekey>U.S.</placekey>
+				<placekey>County or Equivalent Entity</placekey>
+				<placekey>Cook</placekey>
+				<placekey>17031</placekey>	
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.
+The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.</useconst>
+		<Title_13_Restrictions>Yes, the data are free from Title 13 restrictions</Title_13_Restrictions>
+		<ptcontac>
+		 <cntinfo>
+		  <cntorgp>
+		   <cntorg>U.S. Department of Commerce, U.S. Census Bureau, 
+                         Geography Division, Geographic Products Branch</cntorg>
+			</cntorgp>
+			<cntaddr>
+			<addrtype>Mailing address</addrtype>
+			<address>4600 Silver Hill Road, Stop 7400</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20233-7400</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>301-763-1128</cntvoice>
+				<cntfax>301-763-4710</cntfax>
+				<cntemail>geo.tiger@census.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<Data_Set_Character_Set>8859part1</Data_Set_Character_Set>
+	<Data_Set_Language>eng</Data_Set_Language>
+	<dataqual>
+		<attracc>
+			<attraccr>Accurate against Federal Information Processing Standards (FIPS), FIPS Publication 6-4, and FIPS-55 at the 100% level for the codes and base names.  The remaining attribute information has been examined but has not been fully tested for accuracy.</attraccr>
+		</attracc>
+		<logic>The Census Bureau performed automated tests to ensure logical consistency and limits of shapefiles.  Segments making up the outer and inner boundaries of a polygon tie end-to-end to completely enclose the area.  All polygons are tested for closure.
+The Census Bureau uses its internally developed geographic update system to enhance and modify spatial and attribute data in the Census MAF/TIGER database.  Standard geographic codes, such as FIPS codes for states, counties, municipalities, county subdivisions, places, American Indian/Alaska Native/Native Hawaiian areas, and congressional districts are used when encoding spatial entities.  The Census Bureau performed spatial data tests for logical consistency of the codes during the compilation of the original Census MAF/TIGER database files.  Most of the codes for geographic entities except states, counties, urban areas, Core Based Statistical Areas (CBSAs), American Indian Areas (AIAs), and congressional districts were provided to the Census Bureau by the USGS, the agency responsible for maintaining FIPS 55.  Feature attribute information has been examined but has not been fully tested for consistency.
+For the TIGER/Line Shapefiles, the Point and Vector Object Count for the G-polygon SDTS Point and Vector Object Type reflects the number of records in the shapefile attribute table.  For multi-polygon features, only one attribute record exists for each multi-polygon rather than one attribute record per individual G-polygon component of the multi-polygon feature.  TIGER/Line Shapefile multi-polygons are an exception to the G-polygon object type classification.  Therefore, when multi-polygons exist in a shapefile, the object count will be less than the actual number of G-polygons.</logic>
+		<complete>Data completeness of the TIGER/Line Shapefiles reflects the contents of the Census MAF/TIGER database at the time the TIGER/Line Shapefiles were created.</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</origin>
+					<pubdate>Unpublished material</pubdate>
+					<title>Census MAF/TIGER database</title>
+					</citeinfo>
+				</srccite>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+						<begdate>201103</begdate>
+						<enddate>201112</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Publication Date</srccurr>
+				</srctime>
+				<srccitea>MAF/TIGER</srccitea>
+				<srccontr>The selected geographic and cartographic information (line segments) are derived from the U.S. Census Bureau&apos;s Master Address File Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) database.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>TIGER/Line Shapefiles are extracted from the Census MAF/TIGER database by nation, state, county, and entity.  Census MAF/TIGER data for all of the aforementioned geographic entities are then distributed among the shapefiles each containing attributes for line, polygon, or landmark geographic data. </procdesc>
+				<srcused>Census MAF/TIGER</srcused>
+				<procdate>2010</procdate>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<indspref>Federal Information Processing Standards (FIPS), ANSI, and feature names.</indspref>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>120866</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000458</latres>
+				<longres>0.000458</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>North American Datum of 1983 in the 48 contiguous states, the District of Columbia, Alaska, Hawaii, Puerto Rico, the Virgin Islands of the United States, and the Pacific Island Areas.</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137</semiaxis>
+				<denflat>298257</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>FACES.shp</enttypl>
+        <enttypd>Topological Faces (Polygons With all Geocodes) County-based shapefile (2010 Census Geocodes)</enttypd>
+        <enttypds>U.S. Census Bureau</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>TFID</attrlabl>
+        <attrdef>Permanent face ID</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>999999999</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATEFP00</attrlabl>
+        <attrdef>Census 2000 state Federal Information Processing Standards (FIPS) codes</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>INCITS.38-200x (R2004), Codes for the Identification of the States, the the District of Columbia, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 5-2)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COUNTYFP00</attrlabl>
+        <attrdef>Census 2000 county Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>INCITS.31-200x (R2007), Codes for the Identification of the Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 6-4)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRACTCE00</attrlabl>
+        <attrdef>Census 2000 census tract code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>000000</edomv>
+            <edomvd>Water tract in some coastal and Great Lakes water and territorial sea</edomvd>
+            <edomvds>U.S. Census</edomvds>
+          </edom>
+          <edom>
+            <edomv>000100 to 998999</edomv>
+            <edomvd>Census tract number</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BLKGRPCE00</attrlabl>
+        <attrdef>Census 2000 block group number</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Water block group</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>1 to 9</edomv>
+            <edomvd>Current block group code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BLOCKCE00</attrlabl>
+        <attrdef>Census 2000 tabulation block number</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0001 to 9999</edomv>
+            <edomvd>tabulation block number</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COUSUBFP00</attrlabl>
+        <attrdef>Census 2000 county subdivision Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for Named Populated Places, Primary County Divisions, and other Locational Entities of the United States, Puerto Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SUBMCDFP00</attrlabl>
+        <attrdef>Census 2000 subbarrio Federal Information Processing Standards (FIPS) code in Puerto Rico</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>00001</rdommin>
+            <rdommax>89999</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CONCTYFP00</attrlabl>
+        <attrdef>Census 2000 consolidated city Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for Named Populated Places, Primary County Divisions, and other Locational Entities of the United States, Puerto Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PLACEFP00</attrlabl>
+        <attrdef>Census 2000 place Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for Named Populated Places, Primary County Divisions, and other Locational Entities of the United States, Puerto Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AIANNHFP00</attrlabl>
+        <attrdef>Census 2000 American Indian/Alaska Native/Native Hawaiian area FIPS code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for Named Populated Places, Primary County Divisions, and other Locational Entities of the United States, Puerto Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AIANNHCE00</attrlabl>
+        <attrdef>Census 2000 American Indian/Alaska Native/Native Hawaiian area census code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0001 to 4799</edomv>
+            <edomvd>Federally recognized legal American Indian area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>4800 to 4989</edomv>
+            <edomvd>American Indian Joint-Use Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>5000 to 5499</edomv>
+            <edomvd>Hawaiian Home Land</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>5500 to 5899</edomv>
+            <edomvd>Oklahoma Tribal Statistical Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>5900 to 5999</edomv>
+            <edomvd>Joint-Use Oklahoma Tribal Statistical Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>6000 to 7999</edomv>
+            <edomvd>Alaska Native Village Statistical Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>8000 to 8999</edomv>
+            <edomvd>Tribal Designated Statistical Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>9000 to 9499</edomv>
+            <edomvd>State recognized legal American Indian area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>9500 to 9998</edomv>
+            <edomvd>State Designated Tribal Statistical Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMPTYP00</attrlabl>
+        <attrdef>Census 2000 American Indian/Alaska Native/Native Hawaiian area reservation/statistical area or off-reservation trust land Hawaiian home land indicator</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>R</edomv>
+            <edomvd>Reservation or statistical area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>T</edomv>
+            <edomvd>Off-reservation trust land</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRSUBFP00</attrlabl>
+        <attrdef>Census 2000 American Indian tribal subdivision FIPS code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for Named Populated Places, Primary County Divisions, and other Locational Entities of the United States, Puerto Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRSUBCE00</attrlabl>
+        <attrdef>Census 2000 American Indian tribal subdivision code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>001 to 998</edomv>
+            <edomvd>Current tribal subdivision code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>999</edomv>
+            <edomvd>Balance of AIAN with at least one tribal subdivision that is not in a tribal subdivision</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ANRCFP00</attrlabl>
+        <attrdef>Census 2000 Alaska Native Regional Corporation Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for Named Populated Places, Primary County Divisions, and other Locational Entities of the United States, Puerto Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ELSDLEA00</attrlabl>
+        <attrdef>Census 2000 elementary school district local education agency code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00001 to 99996</edomv>
+            <edomvd>Current elementary school district local education agency code</edomvd>
+            <edomvds>local school district</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SCSDLEA00</attrlabl>
+        <attrdef>Census 2000 secondary school district local education agency code</attrdef>
+        <attrdefs>local school district</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00001 to 99996</edomv>
+            <edomvd>Current secondary school district local education agency code</edomvd>
+            <edomvds>local school district</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UNSDLEA00</attrlabl>
+        <attrdef>Census 2000 unified school district local education agency code</attrdef>
+        <attrdefs>local school district</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00001 to 99996</edomv>
+            <edomvd>Census 2000 Local Education Agency code</edomvd>
+            <edomvds>local school district</edomvds>
+          </edom>
+          <edom>
+            <edomv>99997</edomv>
+            <edomvd>Land area not assigned</edomvd>
+            <edomvds>local school district Enumerated_Domain:</edomvds>
+            <edomv>99998</edomv>
+            <edomvd>Water area not assigned</edomvd>
+            <edomvds>local school district</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UACE</attrlabl>
+        <attrdef>Corrected Census 2000 urban area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00001 to 98999</edomv>
+            <edomvd>Urban Area Code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CD108FP</attrlabl>
+        <attrdef>108th congressional district Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00</edomv>
+            <edomvd>At Large Representation</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>98</edomv>
+            <edomvd>Non-Voting Delegate</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>99</edomv>
+            <edomvd>No Representation</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>01 to 53</edomv>
+            <edomvd>Congressional District (in states with more than one district)</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SLDUST00</attrlabl>
+        <attrdef>Census 2000 state legislative district (upper chamber) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Any ASCII alphabetic or numeric character combination plus hyphens from one to three characters</edomv>
+            <edomvd>State-assigned legislative district (upper chamber) code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>ZZZ</edomv>
+            <edomvd>State legislative district (upper chamber) not defined</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SLDLST00</attrlabl>
+        <attrdef>Census 2000 state legislative district (lower chamber) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Any ASCII alphabetic or numeric character combination plus hyphens from one to three characters</edomv>
+            <edomvd>State-assigned legislative district (lower chamber) code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>ZZZ</edomv>
+            <edomvd>State legislative district (lower chamber) not defined</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>VTDST00</attrlabl>
+        <attrdef>Census 2000 voting district code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Any ASCII alphabetic or numeric character combination plus hyphens from one to six characters</edomv>
+            <edomvd>Voting district code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>ZZZZZZ</edomv>
+            <edomvd>No voting district defined</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ZCTA5CE00</attrlabl>
+        <attrdef>Census 2000 5-digit ZIP Code Tabulation Area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00401 to 99950</edomv>
+            <edomvd>Five-digit ZIP code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TAZCE00</attrlabl>
+        <attrdef>Census 2000 traffic analysis zone code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Any ASCII alphabetic or numeric character combination from one to six characters</edomv>
+            <edomvd>traffic analysis zone code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UGACE00</attrlabl>
+        <attrdef>Census 2000 urban growth area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00001 to 89999</edomv>
+            <edomvd>Census 2000 urban growth area code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PUMA5CE00</attrlabl>
+        <attrdef>Census 2000 public use microdata area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00100 to 08200</edomv>
+            <edomvd>Census PUMA5 Code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATEFP10</attrlabl>
+        <attrdef>2010 Census state Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>INCITS.38-200x (R2004), Codes for the Identification of the States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 5-2)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COUNTYFP10</attrlabl>
+        <attrdef>2010 Census county Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>INCITS.31-200x (R2007), Codes for the Identification of the Counties and Equivalent Areas of the United States, Puerto Rico, and the Insular Areas of the United States (Formerly FIPS 6-4)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRACTCE10</attrlabl>
+        <attrdef>2010 Census census tract code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>000000</edomv>
+            <edomvd>Water tract in some coastal and Great Lakes water and territorial sea</edomvd>
+            <edomvds>U.S. Census</edomvds>
+          </edom>
+          <edom>
+            <edomv>000100 to 998999</edomv>
+            <edomvd>Census tract number</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BLKGRPCE10</attrlabl>
+        <attrdef>2010 Census block group number</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0</edomv>
+            <edomvd>Water block group</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>1 to 9</edomv>
+            <edomvd>Census 2000 block group code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BLOCKCE10</attrlabl>
+        <attrdef>2010 Census tabulation block number</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0001 to 9999</edomv>
+            <edomvd>tabulation block number</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COUSUBFP10</attrlabl>
+        <attrdef>2010 Census county subdivision Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for Named Populated Places, Primary County Divisions, and other Locational Entities of the United States, Puerto Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SUBMCDFP10</attrlabl>
+        <attrdef>2010 Census subminor civil division Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>00001</rdommin>
+            <rdommax>89999</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CONCTYFP10</attrlabl>
+        <attrdef>2010 Census consolidated city Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for Named Populated Places, Primary County Divisions, and other Locational Entities of the United States, Puerto Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PLACEFP10</attrlabl>
+        <attrdef>2010 Census place Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for Named Populated Places, Primary County Divisions, and other Locational Entities of the United States, Puerto Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AIANNHFP10</attrlabl>
+        <attrdef>2010 Census American Indian/Alaska Native/Native Hawaiian area Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for Named Populated Places, Primary County Divisions, and other Locational Entities of the United States, Puerto Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AIANNHCE10</attrlabl>
+        <attrdef>2010 Census American Indian/Alaska Native/Native Hawaiian Area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>0001 to 4799</edomv>
+            <edomvd>Federally recognized legal American Indian area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>4800 to 4989</edomv>
+            <edomvd>American Indian Joint-Use Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>5000 to 5499</edomv>
+            <edomvd>Hawaiian Home Land</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>5500 to 5899</edomv>
+            <edomvd>Oklahoma Tribal Statistical Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>5900 to 5999</edomv>
+            <edomvd>Joint-Use Oklahoma Tribal Statistical Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>6000 to 7999</edomv>
+            <edomvd>Alaska Native Village Statistical Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>8000 to 8999</edomv>
+            <edomvd>Tribal Designated Statistical Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>9000 to 9499</edomv>
+            <edomvd>State recognized legal American Indian area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>9500 to 9998</edomv>
+            <edomvd>State Designated Tribal Statistical Area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>COMPTYP10</attrlabl>
+        <attrdef>2010 Census American Indian/Alaska Native/Native Hawaiian area reservation/statistical area or off-reservation trust land indicator</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>R</edomv>
+            <edomvd>Reservation or statistical area</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>T</edomv>
+            <edomvd>Off-reservation trust land</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRSUBFP10</attrlabl>
+        <attrdef>
+          2010 Census American Indian tribal subdivision Federal
+          Information Processing Standards (FIPS) code
+        </attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>
+              Federal Information Processing Series Census Codes for Named                    Populated Places, Primary County Divisions, and other Locati                    onal Entities of the United States, Puerto Rico, and the
+              Island Areas (Formerly FIPS 55-3)
+            </codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TRSUBCE10</attrlabl>
+        <attrdef>2010 Census American Indian tribal subdivision code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>001 to 998</edomv>
+            <edomvd>Current tribal subdivision code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>999</edomv>
+            <edomvd>Balance of AIAN with at least one tribal subdivision that is not in a tribal subdivision</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ANRCFP10</attrlabl>
+        <attrdef>2010 Census Alaska Native Regional Corporation Federal Information Processing Standards (FIPS) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Series Census Codes for Named Populated Places, Primary County Divisions, and other Locational Entities of the United States, Puerto Rico, and the Island Areas (Formerly FIPS 55-3)</codesetn>
+            <codesets>U.S. Census Bureau</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TTRACTCE10</attrlabl>
+        <attrdef>2010 Census tribal census tract code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>000000 to 998999</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>T00000 to T98999</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TBLKGPCE10</attrlabl>
+        <attrdef>2010 Census tribal block group letter</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>J</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>K</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>A to H</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ELSDLEA10</attrlabl>
+        <attrdef>2010 Census elementary school district local education agency code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00001 to 99996</edomv>
+            <edomvd>Current elementary school district local education agency code</edomvd>
+            <edomvds>local school district</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SCSDLEA10</attrlabl>
+        <attrdef>2010 Census secondary school district local education agency code</attrdef>
+        <attrdefs>local school district</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00001 to 99996</edomv>
+            <edomvd>Current secondary school district local education agency code</edomvd>
+            <edomvds>local school district</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UNSDLEA10</attrlabl>
+        <attrdef>2010 Census unified school district local education agency code</attrdef>
+        <attrdefs>local school district</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00001 to 99996</edomv>
+            <edomvd>Census 2000 Local Education Agency code</edomvd>
+            <edomvds>local school district</edomvds>
+          </edom>
+          <edom>
+            <edomv>99997</edomv>
+            <edomvd>Land area not assigned</edomvd>
+            <edomvds>local school district Enumerated_Domain:</edomvds>
+            <edomv>99998</edomv>
+            <edomvd>Water area not assigned</edomvd>
+            <edomvds>local school district</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UACE10</attrlabl>
+        <attrdef>2010 Census urban area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00001 to 98999</edomv>
+            <edomvd>Urban Area Code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CD111FP</attrlabl>
+        <attrdef>111th congressional district code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00</edomv>
+            <edomvd>At Large Representation</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>98</edomv>
+            <edomvd>Non-Voting Delegate</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>99</edomv>
+            <edomvd>No Representation</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>01 to 53</edomv>
+            <edomvd>Congressional District (in states with more than one district)</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SLDUST10</attrlabl>
+        <attrdef>2010 Census state legislative district (upper chamber) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Any ASCII alphabetic or numeric character combination plus hyphens from one to three characters</edomv>
+            <edomvd>State-assigned legislative district (upper chamber) code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>ZZZ</edomv>
+            <edomvd>State legislative district (upper chamber) not defined</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SLDLST10</attrlabl>
+        <attrdef>2010 Census state legislative district (lower chamber) code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Any ASCII alphabetic or numeric character combination plus hyphens from one to three characters</edomv>
+            <edomvd>State-assigned legislative district (lower chamber) code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>ZZZ</edomv>
+            <edomvd>State legislative district (lower chamber) not defined</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>VTDST10</attrlabl>
+        <attrdef>2010 Census voting district code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Any ASCII alphabetic or numeric character combination plus hyphens from one to six characters</edomv>
+            <edomvd>Voting district code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>ZZZZZZ</edomv>
+            <edomvd>No voting district defined</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ZCTA5CE10</attrlabl>
+        <attrdef>2010 Census 5-digit ZIP Code Tabulation Area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00401 to 99950</edomv>
+            <edomvd>Five-digit ZIP code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TAZCE10</attrlabl>
+        <attrdef>2010 Census traffic analysis zone code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Any ASCII alphabetic or numeric character combination from one to six characters</edomv>
+            <edomvd>traffic analysis zone code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UGACE10</attrlabl>
+        <attrdef>2010 Census urban growth area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00001 to 89999</edomv>
+            <edomvd>Census 2000 urban growth area code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PUMACE10</attrlabl>
+        <attrdef>2010 Census public use microdata area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00100 to 08200</edomv>
+            <edomvd>Census PUMA Code</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CSAFP10</attrlabl>
+        <attrdef>2010 Census combined statistical area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>100</rdommin>
+            <rdommax>599</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CBSAFP10</attrlabl>
+        <attrdef>2010 Census metropolitan statistical area/micropolitan statistical area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>10000</rdommin>
+            <rdommax>49999</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>METDIVFP10</attrlabl>
+        <attrdef>2010 Census metropolitan division code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>10004</rdommin>
+            <rdommax>49994</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CNECTAFP10</attrlabl>
+        <attrdef>2010 Census combined New England city and town area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>700</rdommin>
+            <rdommax>799</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NECTAFP10</attrlabl>
+        <attrdef>2010 Census New England city and town area code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>70000</rdommin>
+            <rdommax>79999</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NCTADVFP10</attrlabl>
+        <attrdef>2010 Census New England city and town area division code</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>70004</rdommin>
+            <rdommax>79994</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LWFLAG</attrlabl>
+        <attrdef>land/water flag</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>G</edomv>
+            <edomvd>Glacier</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>I</edomv>
+            <edomvd>Intermittent Water</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>Land</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>P</edomv>
+            <edomvd>Perennial Water</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>S</edomv>
+            <edomvd>Marsh/Swamp</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OFFSET</attrlabl>
+        <attrdef>Geographic corridor/offset flag</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>N</edomv>
+            <edomvd>Not in a Geographic Corridor/Offset</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+          <edom>
+            <edomv>Y</edomv>
+            <edomvd>This polygon is in a Geographic Corridor/Offset.</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ATOTAL</attrlabl>
+        <attrdef>Total Area</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>INTPTLAT</attrlabl>
+        <attrdef>Latitude of the internal point</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>INTPTLON</attrlabl>
+        <attrdef>Longitude of the internal point</attrdef>
+        <attrdefs>U.S. Census Bureau</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>00</edomv>
+            <edomvd>Blank</edomvd>
+            <edomvds>U.S. Census Bureau</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch</cntorg>
+			</cntorgp>
+			<cntaddr>
+			    <addrtype>Mailing address</addrtype>
+	 		    <address>4600 Silver Hill Road, Stop 7400</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20233-7400</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>301-763-1128</cntvoice>
+				<cntfax>301-763-4710</cntfax>
+				<cntemail>geo.tiger@census.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<distliab>No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.  The boundary information in the TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.</distliab>
+	   <stdorder>
+	     <digform>
+				<digtinfo>
+					<formname>TGRSHP (compressed)</formname>
+					<filedec>PK-ZIP, version 1.93 A or higher</filedec>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+						  <networka>
+						<networkr>http://www2.census.gov/geo/tiger/TIGER2010/FACES/tl_2010_17031_faces.zip</networkr>
+						  </networka>
+						</computer>
+					</onlinopt>
+					<offoptn>
+						<offmedia>DVD-ROM (Only if offered offline)</offmedia>
+						<recfmt>ISO 9660</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>The online copy of the TIGER/Line files may be accessed without charge.</fees>
+			<ordering>To obtain more information about ordering TIGER/Line shapefiles visit http://www.census.gov/geo/www/tiger </ordering>
+		</stdorder>
+		<techpreq>The TIGER/Line shapefiles contain geographic data only and do not include display mapping software or statistical data.  For information on how to use the TIGER/Line shapefile data with specific software package users shall contact the company that produced the software.</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd>20110507</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>Mailing address</addrtype>
+					<address>4600 Silver Hill Road, Stop 7400</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20233-7400</postal>
+					<country>United States</country>
+				</cntaddr>
+				<cntvoice>301-763-1128</cntvoice>
+				<cntfax>301-763-4710</cntfax>
+				<cntemail>geo.tiger@census.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<Metadata_Character_Set>8859part1</Metadata_Character_Set>
+		<Metadata_File_Identifier>tl_2010_17031_faces.shp.xml</Metadata_File_Identifier>
+		<Metadata_Language>eng</Metadata_Language>
+	</metainfo>
+</metadata>
